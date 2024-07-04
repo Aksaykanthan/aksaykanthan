@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Aksay Kanthan, a first-year Artificial Intelligence student with a strong passion for Full Stack Development, Web3, and AI & Machine Learning!
+I am Aksay Kanthan, a second-year Artificial Intelligence student with a strong passion for Full Stack Development, Web3, and AI & Machine Learning!
 
 ## About Me
 

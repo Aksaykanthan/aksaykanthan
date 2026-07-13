@@ -1,38 +1,76 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1d4ed8,100:38bdf8&height=190&section=header&text=Aksay%20Kanthan&fontSize=58&fontColor=f8fafc&fontAlignY=42&desc=AI%20student%20building%20useful%20systems%20for%20the%20web&descSize=18&descAlignY=66&animation=fadeIn" alt="Aksay Kanthan" width="100%" />
+  <br />
+  <a href="https://www.linkedin.com/in/aksay-kanthan-157a51272/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://instagram.com/aksayakanthan"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram" /></a>
+  <a href="https://github.com/Aksaykanthan"><img src="https://img.shields.io/badge/GitHub-Aksaykanthan-181717?style=for-the-badge&logo=github&logoColor=white" alt="Aksaykanthan on GitHub" /></a>
+</div>
 
-I am Aksay Kanthan, a second-year Artificial Intelligence student with a strong passion for Full Stack Development, Web3, and AI & Machine Learning!
+<br />
 
-## About Me
+## Building at the intersection of AI and product engineering
 
-- **🔭 Current Project**: I’m currently working on **Evalify**, an AI-powered exam evaluation system designed to streamline and enhance the assessment process.
-- **🌱 Learning Journey**: I'm diving deep into AI, focusing on Large Language Models (LLMs), AI agents, and other cutting-edge technologies.
-- **⚡ Recent Work**: I recently fine-tuned a Large Language Model based on High Entropy Alloys. Check it out [here](https://github.com/Aksaykanthan/HEA_QLoRA_finetuning).
-- **👯 Collaboration**: I’m eager to collaborate on Web3 and AI-related projects. Let's build something innovative together!
+I'm a second-year Artificial Intelligence student who enjoys turning ambitious ideas into dependable products. My work spans full-stack applications, LLM systems, developer infrastructure, and practical machine learning.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aksay-kanthan-157a51272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aksaykanthan" height="30" width="40" /></a>
-<a href="https://instagram.com/aksayakanthan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aksaykanthan" height="30" width="40" /></a>
+> I care about the whole path: useful idea, thoughtful interface, reliable deployment.
+
+### In focus
+
+| Now                                                                                  | Exploring                                             | Open to                                  |
+| :----------------------------------------------------------------------------------- | :---------------------------------------------------- | :--------------------------------------- |
+| Building **Evolveus**, formerly **Evalify**, an AI-powered exam-evaluation platform. | LLM fine-tuning, AI agents, and evaluation workflows. | AI, Web3, and full-stack collaborations. |
+
+## Selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Evolveus <small>(formerly Evalify)</small></h3>
+      <p>AI-assisted assessment, backed by a production-minded DevSecOps platform with Ansible, Docker, Jenkins, Keycloak, observability, and automated delivery.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Aksaykanthan/magic-nextjs-template">Magic Next.js Template</a></h3>
+      <p>A modular Next.js starter that makes modern full-stack foundations selectable instead of repetitive: auth, tRPC, Prisma, Redis, storage, and theming.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Aksaykanthan/HEA_QLoRA_finetuning">HEA QLoRA Fine-tuning</a></h3>
+      <p>A focused large-language-model fine-tuning project built around High Entropy Alloys research.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Next frontier</h3>
+      <p>Agentic software that is measurable, secure, and genuinely useful to the people who rely on it.</p>
+    </td>
+  </tr>
+</table>
+
+## Technical palette
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c,react,nextjs,nodejs" alt="Python, TypeScript, JavaScript, Java, C, React, Next.js, and Node.js" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=django,flask,firebase,postgres,mysql,mongodb,docker,linux" alt="Django, Flask, Firebase, PostgreSQL, MySQL, MongoDB, Docker, and Linux" />
 </p>
 
+<details>
+  <summary><strong>What I reach for</strong></summary>
+  <br />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
- <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
- <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
- </p>
-<!--p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aksaykanthan&show_icons=true&locale=en&layout=compact" alt="aksaykanthan" /></p-->
+- **Product engineering:** TypeScript, React, Next.js, Node.js, Flutter
+- **AI and data:** Python, LLMs, agents, fine-tuning, evaluation systems
+- **Backend and storage:** Django, Flask, Firebase, PostgreSQL, MySQL, MongoDB
+- **Infrastructure:** Docker, Linux, CI/CD, Ansible, observability
 
+</details>
+
+<br />
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aksaykanthan&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&text_color=0f172a&icon_color=2563eb&title_color=0f172a" alt="Aksay's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksaykanthan&layout=compact&langs_count=8&theme=transparent&hide_border=true&text_color=0f172a&title_color=0f172a" alt="Aksay's most-used languages" />
+</div>
+
+<div align="center">
+  <sub>Always learning. Always building. Happy to connect.</sub>
+</div>

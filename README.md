@@ -16,31 +16,31 @@ I'm a final-year Artificial Intelligence student who enjoys turning ambitious id
 
 ### In focus
 
-| Now                                                                                                | Exploring                                             | Open to                           |
-| :------------------------------------------------------------------------------------------------- | :---------------------------------------------------- | :-------------------------------- |
-| Building **Evolveus**, formerly **Evalify**, an AI-powered assessment platform used by my college. | LLM fine-tuning, AI agents, and evaluation workflows. | AI and full-stack collaborations. |
+| Shipping now                                                                                                                                     | Deepening                                                                                               | Collaborating                                                                      |
+| :----------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------- |
+| **[Evolveus](https://evolveus.in)**, an assessment platform my college uses to run exams from setup through LLM-assisted descriptive evaluation. | LLM evaluation, reliable agent workflows, and platform engineering with Go, Kubernetes, and Crossplane. | AI and full-stack systems where product quality and operational rigor both matter. |
 
 ## Selected work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://evolveus.in">Evolveus</a> <small>(formerly Evalify)</small></h3>
-      <p>Used by my college to conduct examinations, including LLM-assisted descriptive-answer evaluation. Built with a production-minded DevSecOps platform: Ansible, Docker, Jenkins, Keycloak, observability, and automated delivery.</p>
+      <h3><a href="https://evolveus.in">Evolveus</a> <small>Intelligent assessment platform</small></h3>
+      <p>Used by my college to conduct examinations. It pairs a focused assessment workflow with LLM-assisted descriptive-answer evaluation, backed by a production-ready DevSecOps foundation.</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Aksaykanthan/magic-nextjs-template">Magic Next.js Template</a></h3>
-      <p>A modular Next.js starter that makes modern full-stack foundations selectable instead of repetitive: auth, tRPC, Prisma, Redis, storage, and theming.</p>
+      <h3><a href="https://github.com/Aksaykanthan/magic-nextjs-template">Magic Next.js Template</a> <small>Composable full-stack foundation</small></h3>
+      <p>A configurable Next.js starter that makes durable application primitives selectable: auth, typed APIs, Prisma, Redis, object storage, and multi-theme UI.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Aksaykanthan/HEA_QLoRA_finetuning">HEA QLoRA Fine-tuning</a></h3>
-      <p>A focused large-language-model fine-tuning project built around High Entropy Alloys research.</p>
+      <h3><a href="https://github.com/Aksaykanthan/HEA_QLoRA_finetuning">HEA QLoRA Fine-tuning</a> <small>Domain-tuned LLM research</small></h3>
+      <p>A practical fine-tuning study for High Entropy Alloys research, exploring how specialist knowledge can become useful model behavior.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Next frontier</h3>
-      <p>Agentic software that is measurable, secure, and genuinely useful to the people who rely on it.</p>
+      <h3>Platform engineering <small>What I am building toward</small></h3>
+      <p>Go services, Kubernetes-native delivery, Crossplane-based infrastructure, and observability that makes AI systems dependable in production.</p>
     </td>
   </tr>
 </table>
@@ -48,11 +48,18 @@ I'm a final-year Artificial Intelligence student who enjoys turning ambitious id
 ## Technical palette
 
 <p>
+  <strong>Application and AI</strong>
+  <br />
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,flutter" alt="Python, TypeScript, JavaScript, React, Next.js, Node.js, and Flutter" />
+  <br /><br />
+  <strong>Backend and data</strong>
   <br />
-  <img src="https://skillicons.dev/icons?i=django,flask,postgres,prisma,redis,mongodb,firebase" alt="Django, Flask, PostgreSQL, Prisma, Redis, MongoDB, and Firebase" />
+  <img src="https://skillicons.dev/icons?i=go,java,spring,django,flask,postgres,prisma,redis,mongodb,firebase" alt="Go, Java, Spring Boot, Django, Flask, PostgreSQL, Prisma, Redis, MongoDB, and Firebase" />
+  <br /><br />
+  <strong>Platform and delivery</strong>
   <br />
-  <img src="https://skillicons.dev/icons?i=docker,ansible,jenkins,linux,git,githubactions" alt="Docker, Ansible, Jenkins, Linux, Git, and GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,jenkins,linux,git,githubactions" alt="Docker, Kubernetes, Ansible, Jenkins, Linux, Git, and GitHub Actions" />
+  <a href="https://www.crossplane.io/"><img src="https://img.shields.io/badge/Crossplane-326CE5?style=for-the-badge&logo=crossplane&logoColor=white" alt="Crossplane" height="48" /></a>
 </p>
 
 <details>
@@ -61,8 +68,8 @@ I'm a final-year Artificial Intelligence student who enjoys turning ambitious id
 
 - **Product engineering:** TypeScript, React, Next.js, Node.js, Flutter, tRPC
 - **AI and data:** Python, LLMs, agents, fine-tuning, evaluation systems
-- **Backend and storage:** Django, Flask, PostgreSQL, Prisma, Redis, MongoDB, Firebase
-- **Infrastructure:** Docker, Linux, GitHub Actions, Ansible, Jenkins, observability
+- **Backend and services:** Go, Java, Spring Boot, Django, Flask, PostgreSQL, Prisma, Redis, MongoDB, Firebase
+- **Platform engineering:** Docker, Kubernetes, Crossplane, Ansible, Jenkins, GitHub Actions, observability
 
 </details>
 

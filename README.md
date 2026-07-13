@@ -10,23 +10,23 @@
 
 ## Building at the intersection of AI and product engineering
 
-I'm a second-year Artificial Intelligence student who enjoys turning ambitious ideas into dependable products. My work spans full-stack applications, LLM systems, developer infrastructure, and practical machine learning.
+I'm a final-year Artificial Intelligence student who enjoys turning ambitious ideas into dependable products. My work spans full-stack applications, LLM systems, developer infrastructure, and practical machine learning.
 
 > I care about the whole path: useful idea, thoughtful interface, reliable deployment.
 
 ### In focus
 
-| Now                                                                                  | Exploring                                             | Open to                           |
-| :----------------------------------------------------------------------------------- | :---------------------------------------------------- | :-------------------------------- |
-| Building **Evolveus**, formerly **Evalify**, an AI-powered exam-evaluation platform. | LLM fine-tuning, AI agents, and evaluation workflows. | AI and full-stack collaborations. |
+| Now                                                                                                | Exploring                                             | Open to                           |
+| :------------------------------------------------------------------------------------------------- | :---------------------------------------------------- | :-------------------------------- |
+| Building **Evolveus**, formerly **Evalify**, an AI-powered assessment platform used by my college. | LLM fine-tuning, AI agents, and evaluation workflows. | AI and full-stack collaborations. |
 
 ## Selected work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Evolveus <small>(formerly Evalify)</small></h3>
-      <p>AI-assisted assessment, backed by a production-minded DevSecOps platform with Ansible, Docker, Jenkins, Keycloak, observability, and automated delivery.</p>
+      <h3><a href="https://evolveus.in">Evolveus</a> <small>(formerly Evalify)</small></h3>
+      <p>Used by my college to conduct examinations, including LLM-assisted descriptive-answer evaluation. Built with a production-minded DevSecOps platform: Ansible, Docker, Jenkins, Keycloak, observability, and automated delivery.</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Aksaykanthan/magic-nextjs-template">Magic Next.js Template</a></h3>
@@ -72,6 +72,20 @@ I'm a second-year Artificial Intelligence student who enjoys turning ambitious i
   <img src="https://komarev.com/ghpvc/?username=Aksaykanthan&style=for-the-badge&color=1d4ed8&label=PROFILE+VIEWS" alt="Profile views" />
   <a href="https://github.com/Aksaykanthan?tab=followers"><img src="https://img.shields.io/github/followers/Aksaykanthan?style=for-the-badge&label=FOLLOWERS&color=1d4ed8" alt="GitHub followers" /></a>
   <a href="https://github.com/Aksaykanthan/magic-nextjs-template"><img src="https://img.shields.io/github/stars/Aksaykanthan/magic-nextjs-template?style=for-the-badge&label=TEMPLATE+STARS&color=0f766e" alt="Magic Next.js Template stars" /></a>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Aksaykanthan&theme=transparent&hide_border=true&ring=2563EB&fire=F59E0B&currStreakLabel=0F172A" alt="Aksay's current and longest GitHub contribution streaks" />
+</div>
+
+## Contribution trail
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aksaykanthan/aksaykanthan/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aksaykanthan/aksaykanthan/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated GitHub contribution graph snake" src="https://raw.githubusercontent.com/Aksaykanthan/aksaykanthan/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </div>
 
 <div align="center">
